@@ -9,6 +9,7 @@ import com.tushar.pankhuriassignment.adapters.HomeViewPagerAdapter
 import com.tushar.pankhuriassignment.databinding.ActivityHomeBinding
 import dagger.hilt.android.AndroidEntryPoint
 import android.view.View
+import com.bumptech.glide.Glide
 
 @AndroidEntryPoint
 class HomeActivity : AppCompatActivity(), View.OnClickListener {
@@ -37,6 +38,9 @@ class HomeActivity : AppCompatActivity(), View.OnClickListener {
             binding.vpHome.setCurrentItem(tab.position, true)
         }.attach()
 
+        //Displaying user image
+        Glide.with(this).load("https://i.pinimg.com/474x/63/a9/ed/63a9ed675cf2048917818484ab06d03b.jpg")
+            .into(binding.ivUser)
 
     }
 

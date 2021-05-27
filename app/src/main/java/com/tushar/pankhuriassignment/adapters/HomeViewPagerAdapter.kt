@@ -15,9 +15,9 @@ class HomeViewPagerAdapter(fragmentActivity: FragmentActivity) :
 
     override fun createFragment(position: Int): Fragment {
         return when (position) {
-            0 -> return PhotosFragment()
-            1 -> return VideosFragment()
-            else -> return AlbumsFragment()
+            0 -> PhotosFragment()
+            1 -> VideosFragment()
+            else -> AlbumsFragment()
         }
     }
 }

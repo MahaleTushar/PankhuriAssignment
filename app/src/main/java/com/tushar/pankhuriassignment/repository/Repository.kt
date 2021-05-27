@@ -26,14 +26,12 @@ class Repository @Inject constructor(val context: Context) {
         return (resource.getStringArray(R.array.album_images))
     }
 
-    // this function will Stories data
-
+    // this function will provide Stories data
     fun fetchStoryData(): ArrayList<Story> {
         var storyData = ArrayList<Story>()
         val resource = context.resources
         val storyTitles = resource.getStringArray(R.array.story_title)
         val storyImages = resource.getStringArray(R.array.story_images)
-
         for (i in storyImages.indices) {
             storyData.add(Story(storyTitles[i], storyImages[i]))
         }

@@ -25,9 +25,9 @@ import javax.inject.Inject
 class HomeActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var binding: ActivityHomeBinding
 
+    //Stories adapter
     @Inject
     lateinit var storyAdapter: StoryAdapter
-
     private val homeViewModel: HomeActivityViewModel by viewModels()
 
     //Tab layout title texts
@@ -60,7 +60,7 @@ class HomeActivity : AppCompatActivity(), View.OnClickListener {
 
 
 // Handle Story recyclerview
-
+        // setting up story recyclerview
         binding.rvStory.layoutManager =
             LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         binding.rvStory.itemAnimator = DefaultItemAnimator()

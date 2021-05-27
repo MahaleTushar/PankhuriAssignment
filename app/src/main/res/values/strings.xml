@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PankhuriAssignment</string>
+    <string name="photographer">Photographer</string>
+    <string name="_12_years_of_experience">12 years of experience</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="dummy_text">Discription comes amet here Lorem ipsum dolorcon sec tetur sit amet, consectetul elit,amet Lorem ipsum dolorconse tetur sit amet, consectetur elit, sed do eiusmod tmpor incididunt et dolore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

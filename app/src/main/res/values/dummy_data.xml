@@ -2,10 +2,26 @@
 <resources>
     <string-array name="photos">
         <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://5.imimg.com/data5/WD/JL/ZM/ANDROID-11355876/product-jpeg-500x500.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMWy5umynrrsbQNfA_w-wwcItW4yANrlG2w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqeioMKvVoixDO0ybNWrUF5I6lZ1doLGoQ&amp;usqp=CAU</item>
         <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMWy5umynrrsbQNfA_w-wwcItW4yANrlG2w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqeioMKvVoixDO0ybNWrUF5I6lZ1doLGoQ&amp;usqp=CAU</item>
+        <item>https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg</item>
+        <item>https://cdn0.weddingwire.in/articles/images/7/5/2/4/img_94257/sangeet-ideas-planning-to-organise-it-right-art-foto-studio-add-quirk-to-sangeet-decor.jpg</item>
+        <item>https://weddingstylemagazine.com/sites/default/files/styles/masonry_thumbnail/public/white-lilac-tt-fw13-001.jpg?itok=lgTztrta</item>
+        <item>https://www.culturalindia.net/iliimages/Engagement-Ceremony-ili-108-ogimg.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4PPaCxbeqTezIQ6C5RDupSkvixsBDk1U2g&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VRvX7nkqCXvW7_I4ZFNmmlK7A5Tv9QCuDg&amp;usqp=CAU</item>
+        <item>https://media.gq-magazine.co.uk/photos/5d1398faeef921e6e09ff155/16:9/w_2560%2Cc_limit/airbus-helicopters-4-gq-3jun15-pr_b.jpg</item>
+        <item>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Zwv4oH9umLwfT1A0DH6ZAYLB5Jzsf7pFSw&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiArPutpF6xBdDm9Y0VDU1mwEcUj-7L10t4w&amp;usqp=CAU</item>
         <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
-        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
-        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGCB3FNzEilKfBBfwPtRR7SMW9CDIfBYhbw&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlI0Yiow3AJfGYfHEvN2q5vM880tywkwww0g&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3LRNXvXVmsVC7OkkJzC3zmdhNIxiQrB9t_g&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzY0fpkR2wz7eEc_slImafG2AeQ3zvBSQQDQ&amp;usqp=CAU</item>
     </string-array>
 
 
@@ -36,10 +52,20 @@
         <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_Ns8Z_B4zoSO3avNkl8Adbgq37z2R_uSbw&amp;usqp=CAU</item>
         <item>https://5.imimg.com/data5/WD/JL/ZM/ANDROID-11355876/product-jpeg-500x500.jpg</item>
         <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjv-t9EQ52EN-7XQUWt0VQWCXEiVzO_mTy8w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMWy5umynrrsbQNfA_w-wwcItW4yANrlG2w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqeioMKvVoixDO0ybNWrUF5I6lZ1doLGoQ&amp;usqp=CAU</item>
+        <item>https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg</item>
         <item>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Zwv4oH9umLwfT1A0DH6ZAYLB5Jzsf7pFSw&amp;usqp=CAU</item>
         <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiArPutpF6xBdDm9Y0VDU1mwEcUj-7L10t4w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlI0Yiow3AJfGYfHEvN2q5vM880tywkwww0g&amp;usqp=CAU</item>
         <item>https://cdn0.weddingwire.in/articles/images/7/5/2/4/img_94257/sangeet-ideas-planning-to-organise-it-right-art-foto-studio-add-quirk-to-sangeet-decor.jpg</item>
         <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzD6LS-rnCM7pL4TpO7jZsjyP7Ng_x6kD7NQ&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQykx99C0cS6U0gxZMP1BLaf6nd6Ful7KfQ&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqeioMKvVoixDO0ybNWrUF5I6lZ1doLGoQ&amp;usqp=CAU</item>
+        <item>https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusF3NgxFv2bPL0nexzvFTkU6mIjZgvr6ZQA&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj4_tMEWNNHpmAJxSg4qBP237u9Df7MQxiw&amp;usqp=CAU</item>
     </string-array>
 
     <string-array name="album_images">
@@ -48,6 +74,9 @@
         <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzD6LS-rnCM7pL4TpO7jZsjyP7Ng_x6kD7NQ&amp;usqp=CAU</item>
         <item>https://image.wedmegood.com/resized/600X/uploads/city_bg_image/1/delhi_bg.jpeg</item>
         <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
-
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGLcJLpR6IMtnkvHQWyeVHsctjodWA03F7w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMWy5umynrrsbQNfA_w-wwcItW4yANrlG2w&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvqeioMKvVoixDO0ybNWrUF5I6lZ1doLGoQ&amp;usqp=CAU</item>
+        <item>https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/lamborghini_660_140220101539.jpg</item>
     </string-array>
 </resources>

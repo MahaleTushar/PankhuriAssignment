@@ -29,4 +29,25 @@
         <item>https://weddingstylemagazine.com/sites/default/files/styles/masonry_thumbnail/public/white-lilac-tt-fw13-001.jpg?itok=lgTztrta</item>
         <item>https://www.culturalindia.net/iliimages/Engagement-Ceremony-ili-108-ogimg.jpg</item>
     </string-array>
+
+
+    <string-array name="video_images">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAfiYJFAKSNJjK1ZYBzRV81-PExj16UqtT-Q&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_Ns8Z_B4zoSO3avNkl8Adbgq37z2R_uSbw&amp;usqp=CAU</item>
+        <item>https://5.imimg.com/data5/WD/JL/ZM/ANDROID-11355876/product-jpeg-500x500.jpg</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Zwv4oH9umLwfT1A0DH6ZAYLB5Jzsf7pFSw&amp;usqp=CAU</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiArPutpF6xBdDm9Y0VDU1mwEcUj-7L10t4w&amp;usqp=CAU</item>
+        <item>https://cdn0.weddingwire.in/articles/images/7/5/2/4/img_94257/sangeet-ideas-planning-to-organise-it-right-art-foto-studio-add-quirk-to-sangeet-decor.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzD6LS-rnCM7pL4TpO7jZsjyP7Ng_x6kD7NQ&amp;usqp=CAU</item>
+    </string-array>
+
+    <string-array name="album_images">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiArPutpF6xBdDm9Y0VDU1mwEcUj-7L10t4w&amp;usqp=CAU</item>
+        <item>https://cdn0.weddingwire.in/articles/images/7/5/2/4/img_94257/sangeet-ideas-planning-to-organise-it-right-art-foto-studio-add-quirk-to-sangeet-decor.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzD6LS-rnCM7pL4TpO7jZsjyP7Ng_x6kD7NQ&amp;usqp=CAU</item>
+        <item>https://image.wedmegood.com/resized/600X/uploads/city_bg_image/1/delhi_bg.jpeg</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+
+    </string-array>
 </resources>

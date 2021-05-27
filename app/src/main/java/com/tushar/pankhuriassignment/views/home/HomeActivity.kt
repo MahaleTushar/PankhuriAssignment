@@ -9,11 +9,26 @@ import com.tushar.pankhuriassignment.adapters.HomeViewPagerAdapter
 import com.tushar.pankhuriassignment.databinding.ActivityHomeBinding
 import dagger.hilt.android.AndroidEntryPoint
 import android.view.View
+import androidx.activity.viewModels
+import androidx.fragment.app.viewModels
+import androidx.lifecycle.Observer
+import androidx.recyclerview.widget.DefaultItemAnimator
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.bumptech.glide.Glide
+import com.tushar.pankhuriassignment.viewmodel.HomeActivityViewModel
+import com.tushar.pankhuriassignment.viewmodel.PhotosFragmentViewModel
+import com.tushar.pankhuriassignment.views.home.adapter.PhotosAdapter
+import com.tushar.pankhuriassignment.views.home.adapter.StoryAdapter
+import javax.inject.Inject
 
 @AndroidEntryPoint
 class HomeActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var binding: ActivityHomeBinding
+
+    @Inject
+    lateinit var storyAdapter: StoryAdapter
+
+    private val homeViewModel: HomeActivityViewModel by viewModels()
 
     //Tab layout title texts
     private val tabTexts = arrayOf("Photos", "Videos", "Albums")
@@ -39,8 +54,22 @@ class HomeActivity : AppCompatActivity(), View.OnClickListener {
         }.attach()
 
         //Displaying user image
-        Glide.with(this).load("https://i.pinimg.com/474x/63/a9/ed/63a9ed675cf2048917818484ab06d03b.jpg")
+        Glide.with(this)
+            .load("https://i.pinimg.com/474x/63/a9/ed/63a9ed675cf2048917818484ab06d03b.jpg")
             .into(binding.ivUser)
+
+
+// Handle Story recyclerview
+
+        binding.rvStory.layoutManager =
+            LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
+        binding.rvStory.itemAnimator = DefaultItemAnimator()
+        binding.rvStory.adapter = storyAdapter
+
+        homeViewModel.fetchStories()
+        homeViewModel.getStoryObserver().observe(this, Observer {
+            storyAdapter.addStories(it)
+        })
 
     }
 

@@ -60,7 +60,6 @@
                                 android:background="@color/white"
 
 
-
                                 android:src="@drawable/ic_back"
                                 app:layout_constraintBottom_toBottomOf="parent"
                                 app:layout_constraintStart_toStartOf="parent"
@@ -317,8 +316,9 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:tabIndicator="@drawable/selected_tab"
+
                 app:tabIndicatorColor="@color/pink"
+                app:tabIndicatorFullWidth="false"
                 app:tabIndicatorHeight="2dp"
                 app:tabTextAppearance="@style/tabText"
 

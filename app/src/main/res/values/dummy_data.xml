@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="photos">
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+        <item>https://i.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U</item>
+    </string-array>
+
+
+    //Story title
+    <string-array name="story_title">
+        <item>Top works</item>
+        <item>Wedding</item>
+        <item>Pre wedding </item>
+        <item>Haldi</item>
+        <item>Sangeet</item>
+        <item>Reception</item>
+        <item>Ring ceremony</item>
+    </string-array>
+
+    <string-array name="story_images">
+        <item>https://www.culturalindia.net/iliimages/Engagement-Ceremony-ili-108-ogimg.jpg</item>
+        <item>https://image.wedmegood.com/resized/600X/uploads/city_bg_image/1/delhi_bg.jpeg</item>
+        <item>https://5.imimg.com/data5/WD/JL/ZM/ANDROID-11355876/product-jpeg-500x500.jpg</item>
+        <item>https://imgk.timesnownews.com/story/Haldi_ceremony_1.jpg?tr=w-1200,h-900</item>
+        <item>https://cdn0.weddingwire.in/articles/images/7/5/2/4/img_94257/sangeet-ideas-planning-to-organise-it-right-art-foto-studio-add-quirk-to-sangeet-decor.jpg</item>
+        <item>https://weddingstylemagazine.com/sites/default/files/styles/masonry_thumbnail/public/white-lilac-tt-fw13-001.jpg?itok=lgTztrta</item>
+        <item>https://www.culturalindia.net/iliimages/Engagement-Ceremony-ili-108-ogimg.jpg</item>
+    </string-array>
+</resources>
